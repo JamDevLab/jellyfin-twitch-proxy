@@ -43,3 +43,11 @@ services:
       CLIENT_SECRET: ""
     restart: unless-stopped
 ```
+
+## Haftungsausschluss und Lizenz
+
+Dieses Projekt steht in keiner Verbindung zu **Twitch** oder **Jellyfin** und wird von diesen weder unterstützt noch gesponsert. Alle genannten Marken- und Produktnamen sind Eigentum ihrer jeweiligen Inhaber.
+
+Die Nutzung dieser Software erfolgt auf eigene Verantwortung. Als Nutzer bist du selbst dafür verantwortlich, sicherzustellen, dass dein Einsatz des Proxys im Einklang mit den geltenden Gesetzen sowie den jeweils gültigen Nutzungsbedingungen von Twitch steht. Der Code wird ohne jegliche Gewährleistung bereitgestellt.
+
+**Lizenz:** [GNU GPL-3.0](LICENSE). Du darfst dieses Projekt frei nutzen, verändern und weitergeben, solange abgeleitete Werke ebenfalls unter der GNU GPL-3.0 veröffentlicht werden.
