@@ -25,7 +25,7 @@ Dieses Projekt bietet eine Flask-basierte Anwendung, die Twitch-Streams als HTTP
 ## Docker Compose
 ```yaml
 services:
-  jellyfin:
+  jellyfin-twitch-proxy:
     image: ghcr.io/jamdevlab/jellyfin-twitch-proxy:latest
     container_name: jellyfin-twitch-proxy
     ports:
